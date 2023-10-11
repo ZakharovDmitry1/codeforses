@@ -9,4 +9,4 @@
 09.10.2023: Educational Codeforces Round 156 (Rated for Div. 2) Результаты неизвестны
 10.10.2023: = 1415 (+47), специалист Место: 2676 Educational Codeforces Round 156 (Rated for Div. 2) 09.10.2023 17:35
 задачи: 1834D, 1834E, 1886A, 1886B, 1886C
-11.10.2023: 1826B, 1826C, 
+11.10.2023: 1826B, 1826C, 1826D, 
