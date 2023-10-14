@@ -48,3 +48,4 @@ https://codeforces.com/contest/1714/submission/228077223
 https://codeforces.com/contest/1714/submission/228077965
 https://codeforces.com/contest/1714/submission/228082978
 https://codeforces.com/contest/1714/submission/228195703
+= 1453 (+38), специалист Место: 1529 Codeforces Round 903 (Div. 3) 12.10.2023 17:35
