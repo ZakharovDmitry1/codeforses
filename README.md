@@ -42,3 +42,9 @@ https://codeforces.com/contest/1881/submission/227834816
 https://codeforces.com/contest/1820/submission/227788358
 https://codeforces.com/contest/1820/submission/227785348
 https://codeforces.com/contest/1881/submission/228075267
+14.10.2023:
+https://codeforces.com/contest/1714/submission/228076342
+https://codeforces.com/contest/1714/submission/228077223
+https://codeforces.com/contest/1714/submission/228077965
+https://codeforces.com/contest/1714/submission/228082978
+https://codeforces.com/contest/1714/submission/228195703
