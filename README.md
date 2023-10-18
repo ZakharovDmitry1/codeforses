@@ -58,4 +58,13 @@ https://codeforces.com/contest/1702/submission/228575333
 https://codeforces.com/contest/1702/submission/228437365
 https://codeforces.com/contest/1702/submission/228345511
 https://codeforces.com/contest/1702/submission/228345278
-
+18.10.2023:
+https://codeforces.com/contest/1690/submission/228685321
+https://codeforces.com/contest/1690/submission/228686427
+https://codeforces.com/contest/1690/submission/228687505
+https://codeforces.com/contest/1690/submission/228688169
+https://codeforces.com/contest/1690/submission/228689946
+https://codeforces.com/contest/1690/submission/228692955
+https://codeforces.com/contest/1690/submission/228724113
+https://codeforces.com/contest/1805/submission/228724852
+https://codeforces.com/contest/1805/submission/228725319
