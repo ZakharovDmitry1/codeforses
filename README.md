@@ -68,3 +68,6 @@ https://codeforces.com/contest/1690/submission/228692955
 https://codeforces.com/contest/1690/submission/228724113
 https://codeforces.com/contest/1805/submission/228724852
 https://codeforces.com/contest/1805/submission/228725319
+19.10.2023:
+https://codeforces.com/contest/1805/submission/228766599
+https://codeforces.com/contest/1805/submission/228774889
