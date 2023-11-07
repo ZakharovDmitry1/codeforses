@@ -148,3 +148,6 @@ https://codeforces.com/contest/1775/submission/231618960
 https://codeforces.com/contest/1775/submission/231623273
 07.11.2023:
 https://codeforces.com/contest/1775/submission/231743367
+https://codeforces.com/contest/1894/submission/231748266
+https://codeforces.com/contest/1894/submission/231755427
+https://codeforces.com/contest/1894/submission/231788207
