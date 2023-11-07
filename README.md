@@ -141,3 +141,10 @@ https://codeforces.com/contest/1780/submission/231462190
 = 1567 (-44), специалист Место: 3249 Educational Codeforces Round 157 (Rated for Div. 2) 03.11.2023 17:35
 Итог: рейтинг вырос с 1400 до 1600.
 Это контесты за каникулы и последнюю неделю учебы.
+06.11.2023:
+https://codeforces.com/contest/1775/submission/231616535
+https://codeforces.com/contest/1775/submission/231616554
+https://codeforces.com/contest/1775/submission/231618960
+https://codeforces.com/contest/1775/submission/231623273
+07.11.2023:
+https://codeforces.com/contest/1775/submission/231743367
